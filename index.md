@@ -3,21 +3,21 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Terrestrial Parasite Tracker / Global Biotic Interactions"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Big-Bee-Network"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
-language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
+country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
+language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "28 April 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "11am - 1p Pacific"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-04-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-04-28        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Katja Seltmann", "Jorrit Poelen"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+humandate: "15 January 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "TBD"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2023-01-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-01-15        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["JT Miller", "Jorrit Poelen", "Katja Seltmann"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [ "you!" ]
 
 # ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["seltmann@ccber.ucsb.edu","jhpoelen@jhpoelen.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["jtmiller@ucsb.edu", "jhpoelen@jhpoelen.nl", "seltmann@ccber.ucsb.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -92,22 +92,14 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-Join Jorrit Poelen and Katja Seltmann for "A Practical Exploration of Biotic Interaction Data Management and Information Retrieval through Terrestrial <a href="https://parasitetracker.org/">Parasite Tracker (TPT)</a> and <a href="https://globalbioticinteractions.org">Global Biotic Interactions (GloBI)</a>." This workshop is facilitated by <a href="https://idigbio.org">Integrated Digitized Biocollections (iDigBio)</a>. For more information see <a href="https://www.idigbio.org/content/practical-exploration-biotic-interaction-data-management-and-information-retrieval-through">iDigBio's workshop wiki</a>.
+A showcase of GLOBI's name-alignment-tool, used to align a list of taxonomic names against multiple catalogues. This workshop is directed towards assisting curators in standardizing their collections. The workshop will be one hour and will go through a step by step guide to using the name-alignment-tool including navigating github, editing arguments, and accessing outputs.
 
-During this two-hour long, participatory workshop collection managers, researchers, or data providers will use GloBI for data management and information retrieval. Our group exploration into the data will cover the data origins and data integration process and data products.
+Our overall goal of this workshop is provide a tutorial on the usage of the name-alignment-tool in resolving large taxonomic lists as well as illustrate common issues one should be aware of when aligning names. 
 
-This workshop is open to anyone interested in biotic or species interaction data even if you are presently not using GloBI. We will highlight data from the Terrestrial Parasite Tracker project, but the methods are available for anyone interested in biotic interactions (see more at <a href="https://www.globalbioticinteractions.org/sources">https://www.globalbioticinteractions.org/sources</a>).
 
-The proposed outcome of this workshop is a reusable Carpentries lesson and improved documentation on methods to integrate and access biotic interaction data. We will work together through a series of exploratory data exercises. No programming experience is required, and you will use your own device to download data and create Google Sheets. Everyone will contribute during this workshop. Bring snacks! :)
 
 ## Acknowledgements
-A special thanks to the thousands of (citizen) scientists and their institutions for openly sharing their [datasets](https://globalbioticinteractions.org/sources). Also, thanks for thousands of software engineers for providing high quality open source software on which GloBI is built. 
-
-This workshop is supported by the <img src="fig/parasite_tracker_logo.png" class="inline-image"> [Terrestrial Parasite Tracker](https://parasitetracker.org) project through the <img src="fig/nsf_logo.png" class="inline-image"> [National Science Foundation](https://nsf.gov) award "Collaborative Research: Digitization TCN: Digitizing collections to trace parasite-host associations and predict the spread of vector-borne disease," Award numbers [DBI:1901932](https://nsf.gov/awardsearch/showAward?AWD_ID=1901932&HistoricalAwards=false) and [DBI:1901926](https://nsf.gov/awardsearch/showAward?AWD_ID=1901926&HistoricalAwards=false) . 
-
-Finally, a big thanks to Erica Krimmel of <img src="fig/idigbio_logo.png" class="inline-image"> [iDigBio](https://www.idigbio.org) for helping to organize and host this workshop, the [Carpentries](https://carpentries.org) for providing excellent workshop/lesson templates, and to all the <img src="fig/globi_logo.png" class="inline-image">[GloBI partners](https://globalbioticinteractions.org/about#partners) for their support.
-
-<a href="https://parasitetracker.org"><img src="fig/parasite_tracker_logo.png" class="inline-image" style="height: 5em;"></a> <a href="https://nsf.gov"><img src="fig/nsf_logo.png" class="inline-image" style="height: 6em;"></a> <a href="https://www.idigbio.org/"><img src="fig/idigbio_logo.png" class="inline-image" style="height: 4em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_logo.png" class="inline-image" style="height: 5em;"></a>
+ADD BIG BEE GRANTS HERE
 
 
 ## Disclaimer
