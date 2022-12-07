@@ -14,7 +14,7 @@ humantime: "TBD"    # human-readable times for the workshop (e.g., "9:00 am - 4:
 startdate: 2023-01-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-01-15        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["JT Miller", "Jorrit Poelen", "Katja Seltmann"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: [ "you!" ]
+# helper: [ "you!" ]
 
 # ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["jtmiller@ucsb.edu", "jhpoelen@jhpoelen.nl", "seltmann@ccber.ucsb.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -343,7 +343,7 @@ of code below the Schedule `<h2>` header below with
 
 ## Recording
 
-You can find a mp4 recording of the 2021-04-28 event via:
+CHANGE THIS. You can find a mp4 recording of the 2021-04-28 event via:
 
 > Seltmann & Poelen. 2021. A Practical Exploration of Biotic Interaction Data Management and Information Retrieval through Terrestrial Parasite Tracker (TPT) and Global Biotic Interactions (GloBI) [Workshop]. Zenodo. [doi:10.5281/zenodo.4759060](https://doi.org/10.5281/zenodo.4759060) 
 
