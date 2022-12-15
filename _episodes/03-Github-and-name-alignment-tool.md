@@ -30,9 +30,17 @@ keypoints:
 
 ### What is a Repository or "Repo"?
 ---------------------------------
-> Introduce the basics of what is a Repo and how they are useful for you and collaboration (BRIEF!) 
-> Insert jpegs with red square boxes that denote where to click on the graphical interface to make repo, 
-> Describe the options you have when making a repo (BRIEF!), insert images for lesson purposes
+> Right now you should see the following page after navigating to your repositories: 
+
+<img src="../fig/my-repos.png" height="600" align="middle" />
+
+> This page contains what are called Repositories on github or for short "Repos". A repository is a location on github that hosts a collection of files associated with your work. Its analagous to a folder that holds all of the files for a associated project. The page we are currently on shows your repositories. If your new to github you currently won't have any repositories listed on this landing page. 
+> Rather than building a repository completely from scratch, we're going to create a copy of one already built. To do this we can navigate to the repo that is the template for the name-alignment-tool.  
+<img src="../fig/go-to-name-template.png" height="600" align="middle" />
+> Navigate over to the search bar in the top left corner. Enter in the following: `globalbioticinteractions/name-alignment-template`
+> Click on the option that says "jump to". 
+> This will bring you to the landing page for the name-alignment-template. This is the official repo that holds the tool made by Jorrit. Now we want to create a personal copy of the tool by creating a new repository based upon this template. To do this, navigate over to the green button in the middle right of the screen that says "Use this template", click it, and now you should see an option to create a new repository. Go ahead and click that. 
+<img src="../fig/create-repo-from-template.png" height="600" align="middle" />
 
 ### Where can we find the name-alignment-tool and how do I use it?
 > Link to globi's name-alignment-tool (alternatively could show searching for it) IF search show pictures...
