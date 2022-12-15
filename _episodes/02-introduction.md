@@ -45,7 +45,7 @@ keypoints:
 
 ### This does mean that you need to have some knowledge of Github's interface, which is up next!
 -----
-
+> Random txt
 {: .discussion}
 
 ## Next Up: Light Introduction to Github
