@@ -46,7 +46,7 @@ Taxonomic databases that contain name designations are called "catalogues". Cata
 - **Accepted Name**: This relationship shows that the name searched is registered as the most current/valid name according to the catalogue. 
 - **Synonym**: This relationship suggests that the name searched has been remapped to an alternative name according to the catalogue.
 
-<img src="../fig/Catalogue-Structure.png" height="300" align="middle" />
+<img src="../fig/Catalogue-Structure.png" height="100" align="middle" />
 
 
 
