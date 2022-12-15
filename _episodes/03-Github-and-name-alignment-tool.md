@@ -16,16 +16,17 @@ keypoints:
 ---
 
 -----
-> Describe github...its usages and mention its complexities but highlight that for our purposes it will be rather simple since we'll only interact with the browser's interface. 
-
-> ...
-
 
 ### Getting started
 ---------------------------------
-> To use Github you will need a github account as mentioned in the [setup instructions]
+> To use Github you will need a github account as mentioned in the [setup instructions]. Please note you do NOT need Git downloaded onto your computer for this tutorial. We will be working in Github's graphical interface for the purpose of this lesson. 
 
-> We'll take a tour of the basics highlighting what you will need to know for this tutorial. 
+> Once you have made you're account, you will likely be taken to a page showing you're home activity/github's recommendations. From there, we can nagivate to the top right corner that displays your profile icon, click it, then navigate to the tab that says "Your repositories", go ahead and click that as well.
+<img src="../fig/go-to-repo.png" height="300" align="middle" />
+
+### What is Github? 
+--------------------------------
+> Simply put github is a hosting service for software development and collaboration. Some of us use it to store versions of our code/analyses and others use it for development of software/applications. Today our aim isn't to utilize github for these aspects, but to interact with the name-alignment-tool that has been built on github. All you need to interact with the tool is to "clone" the template repository. That probably sounds complicated at first so lets break it down into a few steps. 
 
 ### What is a Repository or "Repo"?
 ---------------------------------
