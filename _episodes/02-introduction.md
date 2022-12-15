@@ -29,7 +29,7 @@ keypoints:
 
 <img align="right" width="33%" src="../fig/catalogues-logos.png">
 
-Taxonomic databases that contain name designations are called "catalogues". Catalogues contain the necessary information for aligning old names with their most current counterparts if they have changed. Due to scope, species concepts, and project aims there are quite a few catalogues to choose from when aligning names. Some catalogues are designed in large scope to encompass a large portion of the tree of life, while others are more focused on particular clades. Depending on the group your working with, different catalogues may offer more up to date expert designations. 
+> Taxonomic databases that contain name designations are called "catalogues". Catalogues contain the necessary information for aligning old names with their most current counterparts if they have changed. Due to scope, species concepts, and project aims there are quite a few catalogues to choose from when aligning names. Some catalogues are designed in large scope to encompass a large portion of the tree of life, while others are more focused on particular clades. Depending on the group your working with, different catalogues may offer more up to date expert designations. 
 
 
 
