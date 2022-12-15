@@ -45,12 +45,12 @@ Taxonomic databases that contain name designations are called "catalogues". Cata
 > There are various formats depending on the catalogue, but in general they all share the feature of linking names by a relationship. Two common relationships we will see are: 
 - **Accepted Name**: This relationship shows that the name searched is registered as the most current/valid name according to the catalogue. 
 - **Synonym**: This relationship suggests that the name searched has been remapped to an alternative name according to the catalogue.
-<img align="middle" width="33%" src="../fig/Catalogue-Structure.png">
-
------
+<img align="center" width="33%" src="../fig/Catalogue-Structure.png">
 
 
-----
+
+
+
 
 
 ### This does mean that you need to have some knowledge of Github's interface, which is up next!
