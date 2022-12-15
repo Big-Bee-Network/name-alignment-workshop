@@ -44,6 +44,8 @@ keypoints:
 > This will bring you to the landing page for the name-alignment-template. This is the official repo that holds the tool made by Jorrit. Now we want to create a personal copy of the tool by creating a new repository based upon this template. To do this, navigate over to the green button in the middle right of the screen that says "Use this template", click it, and now you should see an option to create a new repository. Go ahead and click that. 
 <img src="../fig/create-repo-from-template.png" height="600" align="middle" />
 
+> From here, you will be prompted to fill out some information for creating a new repository from the name-alignment-template. You will want to create some type of repo name, give it a description, choose the privacy setting you prefer, and then click the green button "Create repository from template". 
+<img src="../fig/create-repo-pg.png" height="600" align="middle" />
 ### Where can we find the name-alignment-tool and how do I use it?
 > Link to globi's name-alignment-tool (alternatively could show searching for it) IF search show pictures...
 > Introduce the basics of what's on a Repo, highlighting whats usually on a README, what are all of those file paths in the box, and how to use a template.
