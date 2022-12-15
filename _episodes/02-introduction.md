@@ -16,15 +16,15 @@ keypoints:
 
 ### What is Taxonomic Name Alignment?
 -----
-> Species Concept blurb 
+> Taxonomic name alignment is a method we can use to standardize the scientific names of specimens in our collections to the most up to date taxonomy as listed in a authority of choice. 
 
-> Importance on standardizing your collections...
 
-<img src="../fig/data-sources.png" height="300" align="middle" />
 
 ### What Taxonomic Resources can we use to Align Names? 
 -----
 > Talk about the various catalogues available with images:: ITIS, COL, DiscoverLife, GBIF, WFO, ETC...
+
+<img src="../fig/catalogues-logos.png" height="300" align="middle" />
 
 > What we choose to align our names to depends on...species concept (who collected your specimens and labeled them?), geographic range of collection, and more?
 
