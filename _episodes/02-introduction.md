@@ -57,15 +57,12 @@ keypoints:
 -----
 > Rather than going by hand and correcting your collection's names manually, there are tools available to align lists of hundreds to thousands of names to catalogue's standards. The tool we'll be showcasing today takes advantage github's interface, allowing a graphical type enviroment that many of us are used to.
 
-## More info
+> ## `More Info: How Does this tool Work?`
 > If you are interested in how the tool actually aligns these names you can visit the repository for [Nomer](https://github.com/globalbioticinteractions/nomer). Nomer is a tool built by Jorrit for aligning names within GLOBI. 
-
+{: .More Info}
 
 ## Next Up: Light Introduction to Github
 
-If you'd like to follow along while working with the entire dataset, please jump to [Working with the Whole Dataset](../03-ixodes-whole-dataset). 
-
-If you would like to explore GloBI data through the GloBI webpage, please visit lesson episode [Point and Click](../04-ixodes-point-and-click).
 
 
 
