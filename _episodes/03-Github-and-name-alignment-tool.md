@@ -22,7 +22,7 @@ keypoints:
 > To use Github you will need a github account as mentioned in the [setup instructions]. Please note you do NOT need Git downloaded onto your computer for this tutorial. We will be working in Github's graphical interface for the purpose of this lesson. 
 
 > Once you have made you're account, you will likely be taken to a page showing you're home activity/github's recommendations. From there, we can nagivate to the top right corner that displays your profile icon, click it, then navigate to the tab that says "Your repositories", go ahead and click that as well.
-<img src="../fig/go-to-repo.png" height="300" align="middle" />
+<img src="../fig/go-to-repo.png" height="600" align="middle" />
 
 ### What is Github? 
 --------------------------------
