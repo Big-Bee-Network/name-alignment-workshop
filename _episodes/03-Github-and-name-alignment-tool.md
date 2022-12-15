@@ -28,6 +28,7 @@ keypoints:
 > Once you have made you're account, you will likely be taken to a page showing you're home activity/github's recommendations. From there, we can nagivate to the top right corner that displays your profile icon, click it, then navigate to the tab that says "Your repositories", go ahead and click that as well.
 <img src="../fig/go-to-repo.png" height="600" align="middle" />
 
+
  
 
 ### What is a Repository or "Repo"?
@@ -46,6 +47,16 @@ keypoints:
 
 > From here, you will be prompted to fill out some information for creating a new repository from the name-alignment-template. You will want to create some type of repo name, give it a description, choose the privacy setting you prefer, and then click the green button "Create repository from template". 
 <img src="../fig/create-repo-pg.png" height="600" align="middle" />
+> Congrats! Now you should have your very own copy of the name-alignment-template. 
+
+### Navitgating my New Repo
+---------------------------------
+> Now lets cover some basics for guiding ourselves around the repository. There is a LOT of information on this webpage, but for our purposes we are going only highlight what is necessary to operate the tool. 
+> First, you can notice the directory of where your repository is stored by looking in the top left corner. It should be structured as username/name-of-repository. Take a look at this and make sure it is structured like this to confirm you made a copy of the template! 
+<img src="../fig/repo-dir.png" height="600" align="middle" />
+
+
+
 ### Where can we find the name-alignment-tool and how do I use it?
 > Link to globi's name-alignment-tool (alternatively could show searching for it) IF search show pictures...
 > Introduce the basics of what's on a Repo, highlighting whats usually on a README, what are all of those file paths in the box, and how to use a template.
