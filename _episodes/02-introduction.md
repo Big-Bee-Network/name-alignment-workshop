@@ -38,7 +38,7 @@ keypoints:
 
 
 
-
+-----
 ### What tools are available for dealing with large quantities of names in collections?
 -----
 > Many! [insert some jpegs] However, alot of these are difficult to get started with without prior knowledge of programming and API calls. Scripting languages such as R also suffer from overhead making aligning thousands of names take a significant amount of time!
