@@ -40,11 +40,12 @@ Taxonomic databases that contain name designations are called "catalogues". Cata
 
 
 
-### What tools are available for dealing with large quantities of names in collections?
+### How are Catalogues Structured?
 -----
-> Many! [insert some jpegs] However, alot of these are difficult to get started with without prior knowledge of programming and API calls. Scripting languages such as R also suffer from overhead making aligning thousands of names take a significant amount of time!
-
-> The name-alignment-tool created by Jorrit offers the advantage of accessing the capabilities of the command line tool Nomer through the github interface. Meaning that you can align names without any programming experience with the speed offered by command line matching. 
+> There are various formats depending on the catalogue, but in general they all share the feature of linking names by a relationship. Two common relationships we will see are: 
+- **Accepted Name**: This relationship shows that the name searched is registered as the most current/valid name according to the catalogue. 
+- **Synonym**: This relationship suggests that the name searched has been remapped to an alternative name according to the catalogue.
+<img align="middle" width="33%" src="../fig/catalogue-structure.png">
 
 -----
 
