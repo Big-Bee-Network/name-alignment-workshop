@@ -45,10 +45,7 @@ keypoints:
 
 ### This does mean that you need to have some knowledge of Github's interface, which is up next!
 -----
-> Exploratory, interactive queries can be executed through SPARQL and Cypher endpoints, GloBI Search/Browse pages, or by using the REST-y GloBI Web API. For those that use R, rglobi is available to explore interaction data. rglobi can also be used to execute Cypher queries. However, it is best to consider these as methods for exploring data rather than data access points. **If you are doing research, download the full dataset and create a version of it**.
 
-> ## `Discussion: Why is it important to version the GloBI data in research?`
-> Take a moment to discuss as a group why it is important to version, publish, or archive a copy of the GloBI dataset you use for research. What are some ways to archive datasets?
 {: .discussion}
 
 ## Next Up: Light Introduction to Github
