@@ -19,12 +19,16 @@ keypoints:
 > Taxonomic name alignment is a method we can use to standardize the scientific names of specimens in our collections to the most up to date taxonomy as listed in a authority of choice. 
 
 
+### Why is Taxonomic Alignment Important?
+----
+> Scientific names and the species they represent are hypotheses. As in all fields of science, these hypotheses should always be refined based upon the most current and accurate information. Species in the past may have been identified based upon a particular trait or an authority's species concept. As we collect more data from fields like systematics and population genetics, we are more capable of refining these designations to represent our most current knowledge. Its therefore important to standardize our collections to the most up to date designations based upon new information. 
+
 
 ### What Taxonomic Resources can we use to Align Names? 
 -----
-> Talk about the various catalogues available with images:: ITIS, COL, DiscoverLife, GBIF, WFO, ETC...
+> Taxonomic databases that contain name designations are called "catalogues". Catalogues contain the necessary information for aligning old names with their most current counterparts if they have changed. Due to scope, species concepts, and project aims there are quite a few catalogues to choose from when aligning names. Some catalogues are designed in large scope to encompass a large portion of the tree of life, while others are more focused on particular clades. Depending on the group your working with, different catalogues may offer more up to date expert designations. 
 
-<img src="../fig/catalogues-logos.png" height="300" align="middle" />
+<img src="../fig/catalogues-logos.png" height="600" align="right" />
 
 > What we choose to align our names to depends on...species concept (who collected your specimens and labeled them?), geographic range of collection, and more?
 
