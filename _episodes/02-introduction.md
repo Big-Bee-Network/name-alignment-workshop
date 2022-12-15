@@ -16,7 +16,7 @@ keypoints:
 
 ### What is Taxonomic Name Alignment?
 -----
-> Taxonomic name alignment is a method we can use to standardize the scientific names of specimens in our collections to the most up to date taxonomy as listed in a authority of choice. 
+> Aligning taxonomy is a process of assuring the names in our collections are the most current and up to date according to an authority of interest. It involves comparing a list of inputed names to the authority's database and returning an output of resolved names. 
 
 
 ### Why is Taxonomic Alignment Important?
