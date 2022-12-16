@@ -44,23 +44,17 @@ keypoints:
  2. Click on 'choose your files', select the downloaded names.csv  
  3. Next we will need to "Commit" our changes to the repository, this is analagous to saving a new version. You'll need to write some sort of message before commiting, its recommended that the message is brief and to the point in order to jog your memory if you need to go back. Write a message and then click the green "Commit" button. 
 <img src="../fig/commit.png" height="300" align="middle" />
-> You should now see the file in the Repo called names.csv! This means the file is now stored locally on this github repo.
+You should now see the file in the Repo called names.csv! This means the file is now stored locally on this github repo.
 
 
-## Editing the README to Run the Tool 
-> To use the tool, we are going to need to accomplish three things:
-> 1) Select the file with the names we want to align
-> 2) Edit the catalogues that we would like to align our names against
-> 3) Commit the changes to start the process of name alignment
+## Running name alignment
+> To use the tool we will be commiting changes to the README. To do this we're going to select the pencil icon located on the top right of the README box.
+<img src="../fig/edit-readme.png" height="300" align="middle" />
 
-> We can accomplish this by editing the README, first lets select the pencil icon on your repo's README [insert jpeg]. 
-> This will direct us to a screen where we can now edit the README's contents. Note that in the syntax of '#' denotes commenting a line of code out, meaning that lines with these are not run. You will notice that most cases of these are to provide notes on what is happening with the code, however we can also use it to our advantage if we want to keep what was originally written but choose not to run it. More on this later! 
-
->1) Selecting the file with names we want to align:
-> The first chunk of information read by the tool starts with datasets: [insert jpeg]
-> Changing the name of the file in the url field allows us to call the data from a local github repo to the tool. Note that the there is dummy data listed in these currently for illustration purposes that will provide outputs. 
-> Notice that there are 3 options for uploading your data, and the one you choose will depend on the type of file that contains your names. There are three file types that the name-alignment-tool currently supports: csv, tsv, and darwin core archives (dwca). For this example, we are using a comma seperated value file, so we're going to replace 'foodorganisms.txt' with the name of our bee-name file.  [insert jpeg]
-> We also want to make sure we aren't running the other datasets, but its nice to retain formatting for future use of the tool if your file is not a csv. Lets take advantage of commenting out lines with '#' to stop those datasets from being run. 
+> This will bring you to a new page where we can edit the readme. Some things to take note of are:
+1. The subsection called datasets: Here the tool will search the repository's local directory for the name of the file we put here. names.csv is already placed so no edits will be needed here. 
+2. The subsection called taxonomies: Here, you can edit which catalogues are used for matching by either adding or removing the '#'. For example, if I didn't want to use the catalogue itis I could add '#' in front of the id and name field for that catalogue. For the purposes of this worked example we already have the three catalogues, itis, ncbi, and discoverlife active and ready to match. 
+<img src="../fig/editing-readme.png" height="300" align="middle" />
 
 > 2) Edit the catalogues that we would like to align our names against
 > Next we're going to navigate to the chunk below that starts with taxonomies: [insert jpeg]
