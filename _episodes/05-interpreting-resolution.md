@@ -31,11 +31,12 @@ keypoints:
 7. the field alignedPath shows a 'piped' list of the alignedNames taxonomic designation. (Domain | Kingdom | Phylum | Class | Order | Family | Genus | Species)
 
 ## So...what if we have different resolutions for an alignedName?
-> As you might expect, not every catalogue has the same criteria for what is a species/what species are considered synonymous! 
+> As you might expect, not every catalogue has the same output for alignedNames. This can be either unintentional (i.e. that name hasn't been checked yet) or intentional (i.e. the catalogue doesn't recognize the same designation as another)
 > How you interpret these alignedNames is largely up to you as a curator/biologist/researcher. Some things worth considering are: 
-> 1. What are the preferred catalogues for my field? Its often the case that taxonomic catalogues designed for particular clades/groups (e.g. DiscoverLife) are considered more accurate then broader catalogues (e.g. Catalogue of Life). 
+> 1. What are the preferred catalogues for my field? Its often the case that when working with a particular clade its better to use a specialized catalogue for that group (e.g. DiscoverLife) rather than one of broad taxonomic scale (e.g. Catalogue of Life). 
 > 2. What is the geographic extent of my collection? Some catalogues are designed with a particular area in mind. For example, the Jepson catalogue for vascular plants in California is a standard when working with California plants, but not recommended outside of the state boundaries. 
-> 3. At the end of the day these names are all working hypotheses! What is an accepted name today may be a synonym of another name in the future. Keep an open mind about these interpretations. 
+> 3. At the end of the day its important to remeber that *all* of these names are working hypotheses. As we collect more genetic information on these specimens new insights and designations are bound to occur. 
+
 
 ## NONE in the relationName field 
 > While it should be expected that a name isn't in every catalogue, if you recieve no relation "NONE" for a name in all of the catalogues that could indicate something is wrong with that name. 
