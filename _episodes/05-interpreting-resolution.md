@@ -17,14 +17,18 @@ keypoints:
 ## Interpreting the output
 
 > So we now have our output table, but what does all of it mean? 
-> [insert jpeg] 
-> The field parsedName represents the scientificName field we provided in our input to the tool.
-> The field parsedName represents the scientificName after undergoing parsing, parsing is a process where extranoeous information is truncated out of the name if a matching scheme supports it (e.g. Authorship/Authority) 
-> the field alignRelation can have three possible values: HAS_ACCEPTED_NAME, SYNONYM_OF, or NONE. If a name is matched and is up to date/current the output will be HAS_ACCEPTED_NAME. If a name is matched, but has been identified as synonymous to another name the output will be SYNONYM_OF. This is usually the case when the original name is no longer considered taxonomically valid, and has been aligned with another species. Finally NONE indicates that there was no match found in that particular catalogue. 
-> the field alignedExternalId indicates the catalogue the name was matched to. These are often abbrievated containing the ID or url within the catalogue to reference that name alignment. 
-> the field alignedName is the name relation matched to the providedName. 
-> the field alignedRank is the taxonomic level of the alignedName (i.e. Genus, species, etc)
-> the field alignedPath shows a 'piped' list of the alignedNames taxonomic designation. (Domain | Kingdom | Phylum | Class | Order | Family | Genus | Species)
+> <img src="../fig/name-resolution-fields2.png" height="600" align="middle" />
+> There is quite a bit here so lets break down the fields that are of particular interest:
+1. The field providedName represents the scientificName field we provided in our input to the tool.
+2. The field parsedName represents the scientificName after undergoing parsing, parsing is a process where extranoeous information is truncated out of the name if a matching scheme supports it (e.g. Authorship/Authority). Please note that subgenuses are parsed out *change?* 
+3. The field alignRelation can have three possible values: 
+  * HAS_ACCEPTED_NAME - a name is matched and is up to date/current the output will be HAS_ACCEPTED_NAME
+  * SYNONYM_OF - name is matched, but has been identified as synonymous to another name
+  * NONE - indicates that there was no match found in that particular catalogue. 
+4. the field alignedExternalId indicates the catalogue the name was matched to. These are often abbrievated containing the ID or url within the catalogue to reference that name alignment. 
+5. the field alignedName is the name relation matched to the parsedName. 
+6. the field alignedRank is the taxonomic level of the alignedName (i.e. Genus, species, etc)
+7. the field alignedPath shows a 'piped' list of the alignedNames taxonomic designation. (Domain | Kingdom | Phylum | Class | Order | Family | Genus | Species)
 
 ## So...what if we have different resolutions for an alignedName?
 > As you might expect, not every catalogue has the same criteria for what is a species/what species are considered synonymous! 
