@@ -65,7 +65,7 @@ You should now see the file in the Repo called names.csv! This means the file is
 
 > This will bring you to the background process where the name-alignment-tool is working on aligning names. If you want to see a detailed view on the process you can click on 'Align names' for more information. 
 <img src="../fig/alignment-details.png" height="300" align="middle" />
-
+>
 > 2) Edit the catalogues that we would like to align our names against
 > Next we're going to navigate to the chunk below that starts with taxonomies: [insert jpeg]
 > This chunk contains all of the catalogues you would like to align names against. The structure includes id: which is an **exact** name as listed on NOMER's readme and a name: which is a general name for the catalogue.[insert jpeg] [Make a warning field ! The id field **must** match the listed IDs on Nomer to correctly match, think of it as all of the catalogues being locked doors and choosing you must have a key with a perfect fit to open your doors of interest!]
