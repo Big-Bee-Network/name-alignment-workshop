@@ -65,6 +65,6 @@ You should now see the file in the Repo called names.csv! This means the file is
 
 > This will bring you to the background process where the name-alignment-tool is working on aligning names. If you want to see a detailed view on the process you can click on 'Align names' for more information. 
 
-<img src="name-alignment-workshop/fig/alignment-details.png" height="300" align="middle" />
+<img src="Big-Bee-Network/name-alignment-workshop/fig/alignment-details.png" height="300" align="middle" />
 
 
