@@ -22,7 +22,7 @@ keypoints:
 1. The field providedName represents the scientificName field we provided in our input to the tool.
 2. The field parsedName represents the scientificName after undergoing parsing, parsing is a process where extranoeous information is truncated out of the name if a matching scheme supports it (e.g. Authorship/Authority). Please note that subgenuses are parsed out *change?* 
 3. The field alignRelation can have three possible values: 
-  * HAS_ACCEPTED_NAME - a name is matched and is up to date/current the output will be HAS_ACCEPTED_NAME
+  * HAS_ACCEPTED_NAME - a name is matched and is up to date/current
   * SYNONYM_OF - name is matched, but has been identified as synonymous to another name
   * NONE - indicates that there was no match found in that particular catalogue. 
 4. the field alignedExternalId indicates the catalogue the name was matched to. These are often abbrievated containing the ID or url within the catalogue to reference that name alignment. 
