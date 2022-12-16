@@ -19,7 +19,7 @@ keypoints:
 
 ### Getting started
 ---------------------------------
-> To use Github you will need a github account as mentioned in the [setup instructions]. Please note you do NOT need Git downloaded onto your computer for this tutorial. We will be working in Github's graphical interface for the purpose of this lesson. 
+> To use Github you will need a github account as mentioned in the [setup instructions]. Please note you do **not** need Git downloaded onto your computer for this tutorial. We will be working in Github's graphical interface for the purpose of this lesson. 
 
 ### What is Github? 
 --------------------------------
@@ -62,7 +62,4 @@ keypoints:
 > If you scroll down you should see a section with a subheader called README.md. Readmes are typically designed as front pages for repositories to display helpful information about how to use the repository. Typically readmes are designed to just convey information, however today we'll be exploring a unique application of editing the readme in order to use the name-alignment-tool, but more on that later!
 <img src="../fig/repo-readme.png" height="600" align="middle" />
 
-### Where can we find the name-alignment-tool and how do I use it?
-> Link to globi's name-alignment-tool (alternatively could show searching for it) IF search show pictures...
-> Introduce the basics of what's on a Repo, highlighting whats usually on a README, what are all of those file paths in the box, and how to use a template.
-> Show that your copy is your own now! Feel free to add files and change things, if something breaks you can always delete it and copy a new one! 
+> Continue on to the next lesson for a showcase of resolving names using your new tool! 
