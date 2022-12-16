@@ -19,7 +19,14 @@ keypoints:
 > For the tool to interact and read our files, we need either a file stored locally on this github repository or a dwc archive link. For todays demonstration lets look at how we can upload a list of names to our local directory for the github repository 
 
 { :Note} "Local Directories" When we say local directory we are referring to the location at which the program looks for a file. For github, your local directory isn't on your personal device but rather the files stored in your repository. For the purpose of our tutorial, this means that we need to upload files onto the github repository's local directory in order for the name-alignment-tool to interact with them. 
-> 
+
+> Lets first take a look at the file in our local repository called names.csv. Navigate to the files and go ahead and click on it. 
+<img src="../fig/repo-names.png" height="300" align="middle" />
+> This is an example of how the names should be formatted when inputted into the tools. The two main things to notice that are a requirement for your names to align correctly are:
+> 1. the "scientificName" field **must** be present in the first row.
+> 2. from the second row on, each name will occupy its own row
+<img src="../fig/names-structure.png" height="300" align="middle" />
+> Some other things to note are delimiter type. The delimiter type of a file notes the seperation, here we're going to use a .csv file type which is a comma seperated value. 
 > Download this example [name file](https://downgit.github.io/#/home?url=https://github.com/Big-Bee-Network/name-alignment-workshop/blob/gh-pages/data/names.csv&rootDirectory=false) containing a comma delimited file of bee names for our worked through example. 
 > Take a look at the data, you'll notice that there is one field called 'scientificName' and 10 rows containing bee names in this field. This is important! When using the name-alignment-tool with data uploaded from a csv or tsv you **must** this structure, including other information will cause name alignment to fail.
 > Now we're going to upload this file into the github repo, this is done by:
