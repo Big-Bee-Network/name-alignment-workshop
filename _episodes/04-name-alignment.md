@@ -64,23 +64,7 @@ You should now see the file in the Repo called names.csv! This means the file is
 <img src="../fig/details.png" height="300" align="middle" />
 
 > This will bring you to the background process where the name-alignment-tool is working on aligning names. If you want to see a detailed view on the process you can click on 'Align names' for more information. 
+<img src="../fig/alignment-details.png" height="300" align="middle" />
 
->
-> 2) Edit the catalogues that we would like to align our names against
-> Next we're going to navigate to the chunk below that starts with taxonomies: [insert jpeg]
-> This chunk contains all of the catalogues you would like to align names against. The structure includes id: which is an **exact** name as listed on NOMER's readme and a name: which is a general name for the catalogue.[insert jpeg] [Make a warning field ! The id field **must** match the listed IDs on Nomer to correctly match, think of it as all of the catalogues being locked doors and choosing you must have a key with a perfect fit to open your doors of interest!]
-> Its also apparent that there are quite a few catalogues listed here; however, not all of these catalogues are useful for resolving taxonomy in bees! An advantage of this tool is that we can align names to multiple catalogues to get comparisons. For this showcase, lets use Catalogue of Life, GBIF, and DiscoverLife bee species checklist. Two of these are already listed, however we're going to want to create a new id & name field for discoverlife. [insert jpeg]. We could run all of these, however the more catalogues you match against the longer it takes to get an output. So lets take advantage again of the commenting out the catalogues we are not interested in running with the '#'. [insert jpeg]
-
-> 3) Commit the changes to start the process of name alignment
-> Now we're ready to run the tool! Simply create a short commit message and commit changes
-
-## Where to find the Resolution
-> The tool is currently being run through Github, but we can see this in action by clicking on the orange dot [insert jpeg] 
-> If you click on this, you will see the tool going through the associated steps. The details aren't super important, but know that the tool is accessing the command line tool Nomer and is then aligning our names against the catalogues. [insert jpeg]
-
-> Once names are aligned, there are circumstances where you get a red X from resolution indicating some sort of failure in alignment. This is OK! This simply means that in one of the catalogues that we chose to match names against there wasn't an output for a certain name. This will be read as NONE for relation. [jpeg]
-> [Make a warning field ! There is however an error to watch out for, called No Name Found(?). This Error is typically something to do with the formatting of the file uploaded not being read correctly. I would first check to make sure your field is labeled "scientificName" and then make sure its in the correct dataset field on the README (either .csv or .tsv). If this doesn't fix it I would look through the README to make sure something isn't accidently commented out or deleted. Remember, you create another copy of the template if you can't identify the problem!]
-
-> Finally the aligned names will create a link, which can be accessed for a one time download. Go ahead and click the link and intiate the download. [insert jpeg]
 
 
