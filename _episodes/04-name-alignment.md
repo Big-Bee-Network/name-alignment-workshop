@@ -64,8 +64,7 @@ You should now see the file in the Repo called names.csv! This means the file is
 <img src="../fig/details.png" height="300" align="middle" />
 
 > This will bring you to the background process where the name-alignment-tool is working on aligning names. If you want to see a detailed view on the process you can click on 'Align names' for more information. 
-<img src="../fig/alignment-details.png" height="300" align="middle" />
+
+<img src="name-alignment-workshop/fig/alignment-details.png" height="300" align="middle" />
 
 
-
-w
