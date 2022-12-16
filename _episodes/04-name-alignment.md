@@ -56,6 +56,16 @@ You should now see the file in the Repo called names.csv! This means the file is
 2. The subsection called taxonomies: Here, you can edit which catalogues are used for matching by either adding or removing the '#'. For example, if I didn't want to use the catalogue itis I could add '#' in front of the id and name field for that catalogue. For the purposes of this worked example we already have the three catalogues, itis, ncbi, and discoverlife active and ready to match. 
 <img src="../fig/editing-readme.png" height="300" align="middle" />
 
+> You can now run name alignment. Note that you technically cant commit if there are no changes to the readme, so just add a '#' to the end of the document since we know that won't do anything. Write a commit message like "Run name-alignment" and Commit changes.
+
+> Alignment will be processing in the background of the github, however we can also see the progress happening in real time by looking at our most recent commit history. To do this select the numbers representing our most recent commit:
+ <img src="../fig/guide-to-more-details.png" height="300" align="middle" />
+> Next click on the orange dot on the left of the commit message you put in, this should open a window that has a details link. Click that. 
+<img src="../fig/details.png" height="300" align="middle" />
+
+> This will bring you to the background process where the name-alignment-tool is working on aligning names. If you want to see a detailed view on the process you can click on 'Align names' for more information. 
+<img src="../fig/alignment-details.png" height="300" align="middle" />
+
 > 2) Edit the catalogues that we would like to align our names against
 > Next we're going to navigate to the chunk below that starts with taxonomies: [insert jpeg]
 > This chunk contains all of the catalogues you would like to align names against. The structure includes id: which is an **exact** name as listed on NOMER's readme and a name: which is a general name for the catalogue.[insert jpeg] [Make a warning field ! The id field **must** match the listed IDs on Nomer to correctly match, think of it as all of the catalogues being locked doors and choosing you must have a key with a perfect fit to open your doors of interest!]
