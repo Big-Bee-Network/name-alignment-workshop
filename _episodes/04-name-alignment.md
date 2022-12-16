@@ -14,7 +14,7 @@ keypoints:
 - "Knowing the basic steps of adding data, data requirements, changing the readme, and accessing the outputs will give you full access to the tool's aligning capabilities." 
 ---
 
-## Uploading Names for Matching 
+## Setup - local directory & file structure
 
 > For the tool to interact and read our files, we need either a file stored locally on this github repository or a dwc archive link. For todays demonstration lets look at how we can upload a list of names to our local directory for the github repository 
 
@@ -23,16 +23,29 @@ keypoints:
 > Lets first take a look at the file in our local repository called names.csv. Navigate to the files and go ahead and click on it. 
 <img src="../fig/repo-names.png" height="300" align="middle" />
 > This is an example of how the names should be formatted when inputted into the tools. The two main things to notice that are a requirement for your names to align correctly are:
-> 1. the "scientificName" field **must** be present in the first row.
-> 2. from the second row on, each name will occupy its own row
+  1. the "scientificName" field **must** be present in the first row.
+  2. from the second row on, each name will occupy its own row
 <img src="../fig/names-structure.png" height="300" align="middle" />
 > Some other things to note are delimiter type. The delimiter type of a file notes the seperation, here we're going to use a .csv file type which is a comma seperated value. 
-> Download this example [name file](https://downgit.github.io/#/home?url=https://github.com/Big-Bee-Network/name-alignment-workshop/blob/gh-pages/data/names.csv&rootDirectory=false) containing a comma delimited file of bee names for our worked through example. 
-> Take a look at the data, you'll notice that there is one field called 'scientificName' and 10 rows containing bee names in this field. This is important! When using the name-alignment-tool with data uploaded from a csv or tsv you **must** this structure, including other information will cause name alignment to fail.
-> Now we're going to upload this file into the github repo, this is done by:
-> 1) Click Add File, then select file to upload. Select the file from your downloads. [insert jpeg]
-> 2) "Commit" is git's way of saying you are making a change to your repository. You will need to enter some sort of phrase when commiting, I usually do something short and sweet that will jog my memory if I need to go back... [insert jpeg]
-> 3) You should now see the file in the Repo! This means the file is now stored locally on this github repo. [insert jpeg]
+
+> This example names.csv file contains names we could match, but lets try uploading a different list of names containing bees. We can get rid of the old name file by either deleting it, to do this click on the trashcan icon in the right corner of the file. 
+<img src="../fig/delete-names.png" height="300" align="middle" />
+
+## Example names
+
+> Go to this example [name file](https://docs.google.com/spreadsheets/d/1vWzIUx-T7uWiQNhtW_DW9EwCRhpMoPYw4PCGJk5S0q0/edit?usp=sharing) containing a comma delimited file of bee names for our worked through example. 
+> From the google sheets, you can select File > Download > Comma Seperated Values (.csv) 
+<img src="../fig/make-csv.png" height="300" align="middle" />
+
+> Save this .csv file somewhere on your computer that you can easily access. I'd suggest somewhere like Documents for simplicity. Next we're going to upload this file onto our local repository.
+> this is done by:
+ 1. Click Add File, then select 'Upload files'.
+ <img src="../fig/upload-file.png" height="300" align="middle" />
+ 2. Click on 'choose your files', select the downloaded names.csv  
+ 3. Next we will need to "Commit" our changes to the repository, this is analagous to saving a new version. You'll need to write some sort of message before commiting, its recommended that the message is brief and to the point in order to jog your memory if you need to go back. Write a message and then click the green "Commit" button. 
+<img src="../fig/commit.png" height="300" align="middle" />
+> You should now see the file in the Repo called names.csv! This means the file is now stored locally on this github repo.
+
 
 ## Editing the README to Run the Tool 
 > To use the tool, we are going to need to accomplish three things:
