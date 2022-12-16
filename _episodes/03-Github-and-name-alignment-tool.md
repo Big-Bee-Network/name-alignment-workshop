@@ -51,11 +51,16 @@ keypoints:
 
 ### Navitgating my New Repo
 ---------------------------------
-> Now lets cover some basics for guiding ourselves around the repository. There is a LOT of information on this webpage, but for our purposes we are going only highlight what is necessary to operate the tool. 
+> Now lets cover some basics for guiding ourselves around the repository. There is a _lot_ of information on this webpage, but for our purposes we are going only highlight what is necessary to operate the tool. 
 > First, you can notice the directory of where your repository is stored by looking in the top left corner. It should be structured as username/name-of-repository. Take a look at this and make sure it is structured like this to confirm you made a copy of the template! 
 <img src="../fig/repo-dir.png" height="600" align="middle" />
 
 
+> Recall that a repository is basically a directory containing files. The files can be visually seen on your repo's main Code page in the center box. This file box contains other info such as sub-folders/directories in the repositiory as well as time stamps for when they were last modified. 
+<img src="../fig/repo-files.png" height="600" align="middle" />
+
+> If you scroll down you should see a section with a subheader called README.md. Readmes are typically designed as front pages for repositories to display helpful information about how to use the repository. Typically readmes are designed to just convey information, however today we'll be exploring a unique application of editing the readme in order to use the name-alignment-tool, but more on that later!
+<img src="../fig/repo-readme.png" height="600" align="middle" />
 
 ### Where can we find the name-alignment-tool and how do I use it?
 > Link to globi's name-alignment-tool (alternatively could show searching for it) IF search show pictures...
