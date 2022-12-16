@@ -33,6 +33,8 @@ keypoints:
 
 ## Example names
 
+example file: [names.csv](../files/names.csv) TODO update link below replacing the google sheets
+
 > Go to this example [name file](https://docs.google.com/spreadsheets/d/1vWzIUx-T7uWiQNhtW_DW9EwCRhpMoPYw4PCGJk5S0q0/edit?usp=sharing) containing a comma delimited file of bee names for our worked through example. 
 > From the google sheets, you can select File > Download > Comma Seperated Values (.csv) 
 <img src="../fig/make-csv.png" height="600" align="middle" />
