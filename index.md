@@ -99,7 +99,7 @@ Our overall goal of this workshop is provide a tutorial on the usage of the name
 
 
 ## Acknowledgements
-ADD BIG BEE GRANTS HERE
+NSF for their support and funding of Big-Bee, Extending Anthophila research through image and trait digitilization. (NSF:DBI:2102006)
 
 
 ## Disclaimer
