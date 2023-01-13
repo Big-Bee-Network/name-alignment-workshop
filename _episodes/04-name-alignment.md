@@ -34,16 +34,17 @@ keypoints:
 
 example file: [names.csv](../names.csv) 
 
-> Go to this example [names.csv](../names.csv) containing a comma delimited file of bee names for our worked through example. 
+> Go to this example [names.csv](../names.csv) containing a comma delimited file of bee names for our worked through example. You'll want to highlight these names by dragging your cursor over them and right clicking. This will bring up a series of prompts, which you can select 'copy' from. 
+ <img src="../fig/copy-names.png" height="600" align="middle" />
 
-
-> Save this .csv file somewhere on your computer that you can easily access. I'd suggest somewhere like Documents for simplicity. Next we're going to upload this file onto our local repository.
+> This will bring you to a page containing the names we're going to align for this tutorial. We're going to copy these names, create a new file, and paste these names for our resolution. 
 > this is done by:
- 1. Click Add File, then select 'Upload files'.
- <img src="../fig/upload-file.png" height="600" align="middle" />
- 2. Click on 'choose your files', select the downloaded names.csv  
- 3. Next we will need to "Commit" our changes to the repository, this is analagous to saving a new version. You'll need to write some sort of message before commiting, its recommended that the message is brief and to the point in order to jog your memory if you need to go back. Write a message and then click the green "Commit" button. 
-<img src="../fig/commit.png" height="600" align="middle" />
+ 1. Click Add File, then select 'Create new file'.
+ <img src="../fig/create-new-file.png" height="600" align="middle" />
+ 2. Name your new file as "names.csv" 
+ 3. Paste your names into the empty box. Do this by right clicking and selecting 'paste'
+ 4. Next we will need to "Commit" our changes to the repository, this is analagous to saving a new version. You'll need to write some sort of message before commiting, its recommended that the message is brief and to the point in order to jog your memory if you need to go back. Write a message and then click the green "Commit" button. 
+<img src="../fig/commit-names.png" height="600" align="middle" />
 You should now see the file in the Repo called names.csv! This means the file is now stored locally on this github repo.
 
 
