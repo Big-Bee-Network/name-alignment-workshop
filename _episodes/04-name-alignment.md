@@ -14,26 +14,25 @@ keypoints:
 - "Knowing the basic steps of adding data, data requirements, changing the readme, and accessing the outputs will give you full access to the tool's aligning capabilities." 
 ---
 
-## Setup - local directory & file structure
+## Setup - remote directory & file structure
 
-> For the tool to interact and read our files, we need either a file stored locally on this github repository or a dwc archive link. For todays demonstration lets look at how we can upload a list of names to our local directory for the github repository 
+> For the tool to interact and read our files, we need either a file stored remotely on this github repository or a dwc archive link. For todays demonstration lets look at how we can upload a list of names to our remote directory for the github repository 
 
-{ :Note} "Local Directories" When we say local directory we are referring to the location at which the program looks for a file. For github, your local directory isn't on your personal device but rather the files stored in your repository. For the purpose of our tutorial, this means that we need to upload files onto the github repository's local directory in order for the name-alignment-tool to interact with them. 
+{ :Note} "Remote Directories" You can think of this as a google drive, basically a file storage system that operates on servers or the "cloud". Like google drive, you can create folders, add and organize files.  
 
-> Lets first take a look at the file in our local repository called names.csv. Navigate to the files and go ahead and click on it. 
+> Lets first take a look at the file in our remote repository called names.csv. Navigate to the files and go ahead and click on it. 
 <img src="../fig/repo-names.png" height="600" align="middle" />
 > This is an example of how the names should be formatted when inputted into the tools. The two main things to notice that are a requirement for your names to align correctly are:
   1. the "scientificName" field **must** be present in the first row.
   2. from the second row on, each name will occupy its own row
 <img src="../fig/names-structure.png" height="600" align="middle" />
-> Some other things to note are delimiter type. The delimiter type of a file notes the seperation, here we're going to use a .csv file type which is a comma seperated value. 
 
 > This example names.csv file contains names we could match, but lets try uploading a different list of names containing bees. We can get rid of the old name file by either deleting it, to do this click on the trashcan icon in the right corner of the file. 
 <img src="../fig/delete-names.png" height="600" align="middle" />
 
 ## Example names
 
-example file: [names.csv](../files/names.csv) TODO update link below replacing the google sheets
+example file: [names.csv](../names.csv) TODO update link below replacing the google sheets
 
 > Go to this example [name file](https://docs.google.com/spreadsheets/d/1vWzIUx-T7uWiQNhtW_DW9EwCRhpMoPYw4PCGJk5S0q0/edit?usp=sharing) containing a comma delimited file of bee names for our worked through example. 
 > From the google sheets, you can select File > Download > Comma Seperated Values (.csv) 
