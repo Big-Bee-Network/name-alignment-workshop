@@ -60,15 +60,19 @@ You should now see the file in the Repo called names.csv! This means the file is
 
 > You can now run name alignment. Note that you technically cant commit if there are no changes to the readme, so just add a '#' to the end of the document since we know that won't do anything. Write a commit message like "Run name-alignment" and Commit changes.
 
-> Alignment will be processing in the background of the github, however we can also see the progress happening in real time by looking at our most recent commit history. To do this select the numbers representing our most recent commit:
- <img src="../fig/guide-to-more-details.png" height="600" align="middle" />
-> Next click on the orange dot on the left of the commit message you put in, this should open a window that has a details link. Click that. 
-<img src="../fig/details.png" height="600" align="middle" />
-
-> This will bring you to the background process where the name-alignment-tool is working on aligning names. If you want to see a detailed view on the process you can click on 'Align names' for more information. 
-
-<img src="./fig/alignment-details.png" height="600" align="middle" />
-
+> Alignment will be processing in the background of the github, however we can also see the progress happening in real time by looking at our most recent commit history. To do this we can select the button called 'Name Alignment by Nomer' 
+ <img src="../fig/access-button.png" height="600" align="middle" />
+> This will bring you to a page indicating that the alignment is operating by your commit history. The circle icon next to the commit message will either be yellow indicating alignment is in progress or green indicating alignment has finished. You can click on this commit message to access the alignment. 
+<img src="../fig/access-alignment-progress.png" height="600" align="middle" />
+> While in progress, you can view the alignment tool in action by clicking on the "align" button. 
+<img src="../fig/access-alignment-progress2.png" height="600" align="middle" />
+> This will bring you to the background process where the name-alignment-tool is working on aligning names. 
+<img src="../fig/alignment-details.png" height="600" align="middle" />
+> Once alignment has finished, we can now access the alignment report by clicking on the tab called "alignment report" 
+<img src="../fig/access-alignment-report.png" height="600" align="middle" />
+> This will download the names as a zip file to your computer's downloads. You can then access the alignment by clicking on the downloaded file. 
+<img src="../fig/download-alignment.png" height="600" align="middle" />  
+> 
 ## Accessing Aligned Names
 > To access the file created with the aligned dataset, navigate to the <> Code subheader on the top left of the github repository. This will bring us back to the main page of the repository. 
 > Scroll down to the readme. Under the header 'Name Alignment', you should see a button called 'Name Alignment by Nomer'. Click on that button. 
