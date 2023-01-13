@@ -31,9 +31,9 @@ keypoints:
 
 > Taxonomic databases that contain name designations are called "catalogues". Catalogues contain the necessary information for aligning old names with their most current counterparts if they have changed. Due to scope, species concepts, and project aims there are quite a few catalogues to choose from when aligning names. Some catalogues are designed in large scope to encompass a large portion of the tree of life, while others are more focused on particular clades. Depending on the group your working with, different catalogues may offer more up to date expert designations. 
 > It's important to note that catalogues' name designations are *hypotheses*. They are not the absolute truth and are subjective to how the catalogue builds their interpretations. Available data & how we study particular organisms can change how catalogues establish what is and isn't a species. To address these issues its important to consider the following:
-> I. What type of catalogue am I using? Is it a catalogue that specializes on a particular clade/group? Is it a catalogue that aggregates other catalogue's interpretations?
-> II. What methods does the catalogue use to build its taxonomic backbone? Literature searches? Phylogenetic trees? A combination of methods? 
-> III. How complete is the catalogue? How current are the designations?
+> * What type of catalogue am I using? Is it a catalogue that specializes on a particular clade/group? Is it a catalogue that aggregates other catalogue's interpretations?
+> * What methods does the catalogue use to build its taxonomic backbone? Literature searches? Phylogenetic trees? A combination of methods? 
+> * How complete is the catalogue? How current are the designations?
 
 
 
