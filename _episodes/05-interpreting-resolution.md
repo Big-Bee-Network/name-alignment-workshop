@@ -15,7 +15,7 @@ keypoints:
 ---
 
 ## Interpreting the output
-
+---
 > So we now have our output table, but what does all of it mean? 
 > <img src="../fig/name-resolution-fields2.png" height="600" align="middle" />
 > There is quite a bit here so lets break down the fields that are of particular interest:
