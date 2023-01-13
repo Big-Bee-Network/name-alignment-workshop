@@ -13,7 +13,6 @@ Setup a github account
 
 You can also follow this video tutorial on setting up a github account. 
 
-<iframe src="../fig/github-account-setup.mp4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" 
-
+<iframe src="../fig/github-account-setup.mp4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
