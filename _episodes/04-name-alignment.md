@@ -46,7 +46,7 @@ example file: [names.csv](../names.csv)
   <img src="../fig/name-and-paste.png" height="600" align="middle" />
  4. Next we will need to "Commit" our changes to the repository, this is analagous to saving a new version. You'll need to write some sort of message before commiting, its recommended that the message is brief and to the point in order to jog your memory if you need to go back. Write a message and then click the green "Commit" button. 
 <img src="../fig/commit-names.png" height="600" align="middle" />
-You should now see the file in the Repo called names.csv! This means the file is now stored locally on this github repo.
+You should now see the file in the Repo called names.csv! This means the file is now stored remotely on this github repo.
 
 
 ## Running name alignment
