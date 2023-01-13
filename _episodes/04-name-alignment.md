@@ -32,11 +32,10 @@ keypoints:
 
 ## Example names
 
-example file: [names.csv](../names.csv) TODO update link below replacing the google sheets
+example file: [names.csv](../names.csv) 
 
-> Go to this example [name file](https://docs.google.com/spreadsheets/d/1vWzIUx-T7uWiQNhtW_DW9EwCRhpMoPYw4PCGJk5S0q0/edit?usp=sharing) containing a comma delimited file of bee names for our worked through example. 
-> From the google sheets, you can select File > Download > Comma Seperated Values (.csv) 
-<img src="../fig/make-csv.png" height="600" align="middle" />
+> Go to this example [names.csv](../names.csv) containing a comma delimited file of bee names for our worked through example. 
+
 
 > Save this .csv file somewhere on your computer that you can easily access. I'd suggest somewhere like Documents for simplicity. Next we're going to upload this file onto our local repository.
 > this is done by:
