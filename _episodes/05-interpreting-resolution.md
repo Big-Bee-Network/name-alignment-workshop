@@ -4,7 +4,7 @@ teaching: 10
 exercises: 10
 questions:
 - "How should I read the output given by the name-alignment-tool?"
-- "Which is the "correct" name alignment?"
+- "Which is the 'correct' name alignment?"
 - "What if a name isn't matching to any of the catalogues?"
 objectives:
 - "Understand how to interpret the name-alignment output"
