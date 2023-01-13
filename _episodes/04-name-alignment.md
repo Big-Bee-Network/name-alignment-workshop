@@ -74,10 +74,7 @@ You should now see the file in the Repo called names.csv! This means the file is
 <img src="../fig/download-alignment.png" height="600" align="middle" />  
 > 
 ## Accessing Aligned Names
-> To access the file created with the aligned dataset, navigate to the <> Code subheader on the top left of the github repository. This will bring us back to the main page of the repository. 
-> Scroll down to the readme. Under the header 'Name Alignment', you should see a button called 'Name Alignment by Nomer'. Click on that button. 
- <img src="../fig/button.png" height="600" align="middle" />
-> This button will take us to a new web page that allows us to download the names. [This part is in the process of implementation, add a png if needed later]
-
+> To open the names, click on the names-aligned.tsv
+<img src="../fig/open-names-aligned.png" height="600" align="middle" /> 
 
 Up next we're going to interpret our aligned names
