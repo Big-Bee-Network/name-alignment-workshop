@@ -42,3 +42,15 @@ keypoints:
 > While it should be expected that a name isn't in every catalogue, if you recieve no relation "NONE" for a name in all of the catalogues that could indicate something is wrong with that name. 
 > To troubleshoot this its worth considering how exactly these names are aligned. NOMER the command line process that our name-alignment-tool is pulling from using an exact character matching scheme to match the providedName against the registered name in the catalogue. In English, this means the inputted name must be exactly the same as the one registered with the catalogue it is matching against. A scientific name is considered a string of characters, and if any of these characters (including spaces, punctuation, etc) are differnt between the provided and resgisterd name then the match will fail. This means that any misspellings, rougue punctuation, or whitespace will trip resolution to fail! This is part of what we mean by name matching being accurate yet naive, the tool can only work with what is provided and does not interpret intention.
 
+## Conclusion 
+> That about wraps up the basics you'll need to use this tool. We hope that you found this tutorial helpful and that you can use this tool to ease your workflow in keeping the collections up to date. If you are interested in more details of how names are aligned be sure to visit Jorrit's [Nomer](https://github.com/globalbioticinteractions/nomer) github repo, and if you have any questions/problems with the tool you can raise an issue on the [name-alignment-tool](https://github.com/globalbioticinteractions/name-alignment-template) repo. 
+
+### In case we have extra time! 
+> Now that we've learned the basics of the tool, lets go ahead and try some names! 
+> Feel free to post any scientificName in the chat, and lets see how name alignment handles it! 
+> Complicated ones (Hononyms or ones known to have unstable taxonomy are encouraged!)
+> A [name list](../complex-names.csv) of bees that can remap to unexpected names 
+
+ 
+> 
+
