@@ -13,6 +13,7 @@ Setup a github account
 
 You can also follow this video tutorial on setting up a github account. 
 
-<video src="../fig/github-account-setup.mp4">
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="../fig/github-account-setup.mp4">
 </video>
 
