@@ -12,8 +12,4 @@ Setup a github account
 3. Proceed with prompts to create your account. Typically choose an email you will have long term access to. 
 
 You can also follow this video tutorial on setting up a github account. 
-
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="../fig/github-account-setup.mp4">
-</video>
-
+<iframe src="../fig/github-account-setup.mp4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
