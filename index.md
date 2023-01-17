@@ -92,7 +92,7 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-A showcase of GLOBI's name-alignment-tool, used to align a list of taxonomic names against multiple catalogues. This workshop is directed towards assisting curators in standardizing their collections. The workshop will be one hour and will go through a step by step guide to using the name-alignment-tool including navigating github, editing arguments, and accessing outputs.
+A showcase of [GloBI](https://globalbioticinteractions.org)'s name-alignment-tool, used to align a list of taxonomic names against multiple catalogues. This workshop is directed towards assisting curators in standardizing their collections. The workshop will be one hour and will go through a step by step guide to using the name-alignment-tool including navigating github, editing arguments, and accessing outputs.
 
 Our overall goal of this workshop is provide a tutorial on the usage of the name-alignment-tool in resolving large taxonomic lists as well as illustrate common issues one should be aware of when aligning names. 
 
