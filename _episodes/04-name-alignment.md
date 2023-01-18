@@ -55,30 +55,30 @@ You should now see the file in the Repo called names.csv! This means the file is
 
 ## Running name alignment
 > To use the tool we will be commiting changes to the README. To do this we're going to select the pencil icon located on the top right of the README box.
-<img src="../fig/edit-readme.png" height="700" align="middle" />
+<img src="../fig/edit-readme.png" height="900" align="middle" />
 
 > This will bring you to a new page where we can edit the readme. Some things to take note of are:
 1. The subsection called datasets: Here the tool will search the repository's local directory for the name of the file we put here. names.csv is already placed so no edits will be needed here. 
 2. The subsection called taxonomies: Here, you can edit which catalogues are used for matching by either adding or removing the '#'. For example, if I didn't want to use the catalogue itis I could add '#' in front of the id and name field for that catalogue. For the purposes of this worked example we already have the three catalogues, itis, ncbi, and discoverlife active and ready to match. 
-<img src="../fig/editing-readme.png" height="700" align="middle" />
+<img src="../fig/editing-readme.png" height="900" align="middle" />
 
 > You can now run name alignment. Note that you technically cant commit if there are no changes to the readme, so just add a '#' to the end of the document since we know that won't do anything. Write a commit message like "Run name-alignment" and Commit changes.
 
 > Alignment will be processing in the background of the github, however we can also see the progress happening in real time by looking at our most recent commit history. To do this we can select the button called 'Name Alignment by Nomer' 
- <img src="../fig/access-button.png" height="700" align="middle" />
+ <img src="../fig/access-button.png" height="900" align="middle" />
 > This will bring you to a page indicating that the alignment is operating by your commit history. The circle icon next to the commit message will either be yellow indicating alignment is in progress or green indicating alignment has finished. You can click on this commit message to access the alignment. 
-<img src="../fig/access-alignment-progress.png" height="700" align="middle" />
+<img src="../fig/access-alignment-progress.png" height="900" align="middle" />
 > While in progress, you can view the alignment tool in action by clicking on the "align" button. 
-<img src="../fig/access-alignment-progress2.png" height="700" align="middle" />
+<img src="../fig/access-alignment-progress2.png" height="900" align="middle" />
 > This will bring you to the background process where the name-alignment-tool is working on aligning names. 
-<img src="../fig/alignment-details.png" height="700" align="middle" />
+<img src="../fig/alignment-details.png" height="900" align="middle" />
 > Once alignment has finished, we can now access the alignment report by clicking on the tab called "alignment report" 
-<img src="../fig/access-alignment-report.png" height="700" align="middle" />
+<img src="../fig/access-alignment-report.png" height="900" align="middle" />
 > This will download the names as a zip file to your computer's downloads. You can then access the alignment by clicking on the downloaded file. 
-<img src="../fig/download-alignment.png" height="700" align="middle" />  
+<img src="../fig/download-alignment.png" height="900" align="middle" />  
 > 
 ## Accessing Aligned Names
 > To open the names, click on the names-aligned.tsv
-<img src="../fig/open-names-aligned.png" height="700" align="middle" /> 
+<img src="../fig/open-names-aligned.png" height="900" align="middle" /> 
 
 Up next we're going to interpret our aligned names
