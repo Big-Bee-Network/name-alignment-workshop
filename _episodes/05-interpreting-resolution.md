@@ -49,6 +49,7 @@ Things to note:
 > Complicated ones (ones known to have unstable taxonomy are encouraged!)
 > Here are some example ones
  | scientificName | 
+ | -------------- |
  | Acanthalictus dybowskii |
  | Adanthidium discophorum |
  | Agapostemon azarae      |
