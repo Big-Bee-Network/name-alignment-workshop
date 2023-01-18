@@ -57,7 +57,7 @@ You should now see the file in the Repo called names.csv! This means the file is
 > To use the tool we will be commiting changes to the repository's description (ReadMe). To do this we're going to select the pencil icon located on the top right of the description box.
 <img src="../fig/edit-readme.png" height="900" align="middle" />
 
-> This will bring you to a new page where we can edit the readme. Some things to take note of are:
+> This will bring you to a new page where we can edit the description. Some things to take note of are:
 1. The subsection called datasets: Here the tool will search the repository's directory for the name of the file we put here. names.csv is already placed so no edits will be needed here. 
 2. The subsection called taxonomies: Here, you can edit which catalogues are used for matching by either adding or removing the '#'. For example, if I didn't want to use the catalogue itis I could add '#' in front of the id and name field for that catalogue. For the purposes of this worked example we already have the three catalogues, itis, ncbi, and discoverlife active and ready to match. 
 <img src="../fig/editing-readme.png" height="900" align="middle" />
