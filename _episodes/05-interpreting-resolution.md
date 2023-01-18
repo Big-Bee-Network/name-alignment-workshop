@@ -48,10 +48,10 @@ Things to note:
 > Feel free to post any scientificName in the chat, and lets see how name alignment handles it! 
 > Complicated ones (ones known to have unstable taxonomy are encouraged!)
 > Here are some example ones
-scientificName 
-Acanthalictus dybowskii
-Adanthidium discophorum
-Agapostemon azarae
-Dufourea versatilis rubriventris
-Eoanthidium (Eoanthidiellum) elongatum
+> scientificName 
+> Acanthalictus dybowskii
+> Adanthidium discophorum
+> Agapostemon azarae
+> Dufourea versatilis rubriventris
+> Eoanthidium (Eoanthidiellum) elongatum
 
