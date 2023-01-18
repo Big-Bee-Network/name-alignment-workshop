@@ -18,7 +18,7 @@ keypoints:
 
 > For the tool to interact and read our files, we need either a file stored remotely on this github repository or a dwc archive link. For todays demonstration lets look at how we can upload a list of names to our remote directory for the github repository 
 
-{ :Note} "Remote Directories" You can think of this as a google drive, basically a file storage system that operates on servers or the "cloud". Like google drive, you can create folders, add and organize files.  
+> Note: "Remote Directories" You can think of this as a google drive, basically a file storage system that operates on servers or the "cloud". Like google drive, you can create folders, add and organize files.  
 
 > Lets first take a look at the file in our remote repository called names.csv. Navigate to the files and go ahead and click on it. 
 <img src="../fig/repo-names.png" height="700" align="middle" />
@@ -54,7 +54,7 @@ You should now see the file in the Repo called names.csv! This means the file is
 
 
 ## Running name alignment
-> To use the tool we will be commiting changes to the README. To do this we're going to select the pencil icon located on the top right of the README box.
+> To use the tool we will be commiting changes to the repository's description (ReadMe). To do this we're going to select the pencil icon located on the top right of the description box.
 <img src="../fig/edit-readme.png" height="900" align="middle" />
 
 > This will bring you to a new page where we can edit the readme. Some things to take note of are:
@@ -62,7 +62,7 @@ You should now see the file in the Repo called names.csv! This means the file is
 2. The subsection called taxonomies: Here, you can edit which catalogues are used for matching by either adding or removing the '#'. For example, if I didn't want to use the catalogue itis I could add '#' in front of the id and name field for that catalogue. For the purposes of this worked example we already have the three catalogues, itis, ncbi, and discoverlife active and ready to match. 
 <img src="../fig/editing-readme.png" height="900" align="middle" />
 
-> You can now run name alignment. Note that you technically cannot commit if there are no changes to the readme, so just add a '#' to the end of the document since we know that won't do anything. Write a commit message like "Run name-alignment" and Commit changes.
+> You can now run name alignment. Note that you technically cannot commit/save if there are no changes to the description, so just add a '#' to the end of the document since we know that won't do anything. Write a commit message like "Run name-alignment" and Commit changes.
 
 > Alignment will be processing in the background of the github, however we can also see the progress happening in real time by looking at our most recent commit history. To do this we can select the button called 'Name Alignment by Nomer' 
  <img src="../fig/access-button.png" height="900" align="middle" />
