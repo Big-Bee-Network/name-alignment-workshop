@@ -17,7 +17,7 @@ keypoints:
 ## Interpreting the output
 ---
 > So we now have our output table, but what does all of it mean? 
-> <img src="../fig/name-resolution-fields2.png" height="1200" align="middle" />
+> <img src="../fig/name-resolution-fields2.png" height="1200" width = 1200 align="middle" />
 > There is quite a bit here so lets break down the fields that are of particular interest:
 1. The field providedName represents the scientificName field we provided in our input to the tool.
 2. The field parsedName represents the scientificName after undergoing parsing, parsing is a process where extranoeous information is truncated out of the name if a matching scheme supports it (e.g. Authorship/Authority). Please note that subgenuses are parsed out *change?* 
