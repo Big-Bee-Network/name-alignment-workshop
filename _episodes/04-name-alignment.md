@@ -39,15 +39,17 @@ example file: [names.csv](../names.csv)
 > Click on this link [names.csv](../names.csv) containing a comma delimited file of bee names for our worked through example. This will download a list of bee names to your personal device.  
  <img src="../fig/download-name-ex.png" height="700" align="middle" />
 
-> This will bring you to a page containing the names we're going to align for this tutorial. We're going to copy these names, create a new file, and paste these names for our resolution. 
+> This file is now downloaded onto your local machine. We now would like to upload these names onto github's remote directory (where that file box sits).  
 > this is done by:
  1. Click Add File, then select 'Create new file'.
- <img src="../fig/create-new-file.png" height="700" align="middle" />
- 2. Name your new file as "names.csv" 
- 3. Paste your names into the empty box. Do this by right clicking and selecting 'paste'
-  <img src="../fig/name-and-paste.png" height="700" align="middle" />
- 4. Next we will need to "Commit" our changes to the repository, this is analagous to saving a new version. You'll need to write some sort of message before commiting, its recommended that the message is brief and to the point in order to jog your memory if you need to go back. Write a message and then click the green "Commit" button. 
-<img src="../fig/commit-names.png" height="700" align="middle" />
+ <img src="../fig/upload-file.png" height="700" align="middle" />
+ 2. This will take you to a commit screen where we can select that file on our local machine. Click on "choose your files". You should be able to find your names.csv in your Downloads folder. 
+ <img src="../fig/upload-commit.png" height="700" align="middle" />
+ <img src="../fig/find-in-downloads.png" height="700" align="middle" />
+ 3. Important! Make sure the file is named "names.csv", this is a requirement for the purposes of this tutorial. Now proceed to commit these changes after writing a commit message of your choosing. 
+  <img src="../fig/commiting-upload.png" height="700" align="middle" />
+ 4. Now we you should have names.csv located within the file box on your repo, go ahead and check to see if its there. 
+<img src="../fig/names-in-file-box.png" height="700" align="middle" />
 You should now see the file in the Repo called names.csv! This means the file is now stored remotely on this github repo.
 
 
