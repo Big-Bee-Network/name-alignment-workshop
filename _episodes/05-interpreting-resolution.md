@@ -17,7 +17,7 @@ keypoints:
 ## Interpreting the output
 ---
 > So we now have our output table, but what does all of it mean? 
-> <img src="../fig/name-resolution-fields2.png" height="1200" width = 1500 align="middle" />
+<img src="../fig/name-resolution-fields2.png" height="1200" width = 1500 align="middle" />
 > There is quite a bit here so lets break down the fields that are of particular interest:
 1. The field providedName represents the scientificName field we provided in our input to the tool.
 2. The field parsedName represents the scientificName after undergoing parsing, parsing is a process where extranoeous information is truncated out of the name if a matching scheme supports it (e.g. Authorship/Authority). Please note that subgenuses are parsed out *change?* 
@@ -30,21 +30,19 @@ keypoints:
 6. the field alignedRank is the taxonomic level of the alignedName (i.e. Genus, species, etc)
 7. the field alignedPath shows a 'piped' list of the alignedNames taxonomic designation. (Domain | Kingdom | Phylum | Class | Order | Family | Genus | Species)
 
-## So...what if we have different resolutions for an alignedName?
-> As you might expect, not every catalogue has the same output for alignedNames. This can be either unintentional (i.e. that name hasn't been checked yet) or intentional (i.e. the catalogue doesn't recognize the same designation as another)
-> How you interpret these alignedNames is largely up to you as a curator/biologist/researcher. Some things worth considering are: 
-> 1. What are the preferred catalogues for my field? Its often the case that when working with a particular clade its better to use a specialized catalogue for that group (e.g. DiscoverLife) rather than one of broad taxonomic scale (e.g. Catalogue of Life). 
-> 2. What is the geographic extent of my collection? Some catalogues are designed with a particular area in mind. For example, the Jepson catalogue for vascular plants in California is a standard when working with California plants, but not recommended outside of the state boundaries. 
-> 3. At the end of the day its important to remeber that *all* of these names are working hypotheses. As we collect more genetic information on these specimens new insights and designations are bound to occur. 
 
+## Conclusion & Further Discussion
+> That about wraps up the basics you'll need to use this tool. We hope that you found this tutorial helpful and that you can use this tool to ease your workflow in keeping the collections up to date. If you are interested in more details of how names are aligned be sure to visit [Nomer](https://github.com/globalbioticinteractions/nomer) github repo, and if you have any questions/problems with the tool you can raise an issue on the [name-alignment-tool](https://github.com/globalbioticinteractions/name-alignment-template) repo. 
 
-## NONE in the relationName field 
-> While it should be expected that a name isn't in every catalogue, if you recieve no relation "NONE" for a name in all of the catalogues that could indicate something is wrong with that name. 
-> To troubleshoot this its worth considering how exactly these names are aligned. NOMER the command line process that our name-alignment-tool is pulling from using an exact character matching scheme to match the providedName against the registered name in the catalogue. In English, this means the inputted name must be exactly the same as the one registered with the catalogue it is matching against. A scientific name is considered a string of characters, and if any of these characters (including spaces, punctuation, etc) are differnt between the provided and resgisterd name then the match will fail. This means that any misspellings, rougue punctuation, or whitespace will trip resolution to fail! This is part of what we mean by name matching being accurate yet naive, the tool can only work with what is provided and does not interpret intention.
+> When writing an issue, its best to be explicit about a the problem you run into or are trying to ask. Vague problems are much harder to solve after all! Here's an example of an issue: 
+> <img src="../fig/issues-ex.png" height="900" align="middle" />
+Things to note:
+1. Write a brief but concise description of the problem you are running into
+2. (Not included in this example, but better practice) A brief description on what you think should be intended. This is also a great kickstarter that can lead into some really interesting discussions!
+3. Copy-Paste either outputs or visuals highlighting the issue (in this example I included the name-alignment-tool table outputs). 
 
-## Conclusion 
-> That about wraps up the basics you'll need to use this tool. We hope that you found this tutorial helpful and that you can use this tool to ease your workflow in keeping the collections up to date. If you are interested in more details of how names are aligned be sure to visit Jorrit's [Nomer](https://github.com/globalbioticinteractions/nomer) github repo, and if you have any questions/problems with the tool you can raise an issue on the [name-alignment-tool](https://github.com/globalbioticinteractions/name-alignment-template) repo. 
-
+#### Discussion
+> Thoughts about the tool or name alignment in general?
 ### In case we have extra time! 
 > Now that we've learned the basics of the tool, lets go ahead and try some names! 
 > Feel free to post any scientificName in the chat, and lets see how name alignment handles it! 
