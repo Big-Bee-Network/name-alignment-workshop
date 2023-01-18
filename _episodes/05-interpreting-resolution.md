@@ -56,9 +56,9 @@ Things to note:
  | Dufourea versatilis rubriventris | |
  | Eoanthidium (Eoanthidiellum) elongatum | |
  
- | scientificName  | occurrenceID |
-| ------------- | ------------- |
-| Acanthalictus dybowskii  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+ | scientificName  | 
+| ------------- | 
+| Acanthalictus dybowskii  | 
+| Content Cell  | 
+| Content Cell  | 
+| Content Cell  | 
