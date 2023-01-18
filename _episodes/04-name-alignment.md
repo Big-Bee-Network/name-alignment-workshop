@@ -21,7 +21,7 @@ keypoints:
 { :Note} "Remote Directories" You can think of this as a google drive, basically a file storage system that operates on servers or the "cloud". Like google drive, you can create folders, add and organize files.  
 
 > Lets first take a look at the file in our remote repository called names.csv. Navigate to the files and go ahead and click on it. 
-<img src="../fig/repo-names.png" height="600" align="middle" />
+<img src="../fig/repo-names.png" height="700" align="middle" />
 > This is an example of how the names should be formatted when inputted into the tools. The two main things to notice that are a requirement for your names to align correctly are:
   1. the "scientificName" field **must** be present in the first row.
   2. from the second row on, each name will occupy its own row
