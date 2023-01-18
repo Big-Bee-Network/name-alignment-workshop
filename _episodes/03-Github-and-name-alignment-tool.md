@@ -19,7 +19,7 @@ keypoints:
 
 ### Getting started
 ---------------------------------
-> To use Github you will need a github account as mentioned in the [setup instructions]. Please note you do **not** need Git downloaded onto your computer for this tutorial. We will be working in Github's graphical interface for the purpose of this lesson. 
+> To use Github you will need a github account as mentioned in the [setup instructions](https://big-bee-network.github.io/name-alignment-workshop/setup). Please note you do **not** need Git downloaded onto your computer for this tutorial. We will be working in Github's graphical interface for the purpose of this lesson. 
 
 ### What is Github? 
 --------------------------------
