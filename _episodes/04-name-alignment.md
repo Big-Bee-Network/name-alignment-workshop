@@ -37,7 +37,7 @@ keypoints:
 example file: [names.csv](../names.csv) 
 
 > Click on this link [names.csv](../names.csv) containing a comma delimited file of bee names for our worked through example. This will download a list of bee names to your personal device.  
- <img src="../fig/copy-names.png" height="700" align="middle" />
+ <img src="../fig/download-name-ex.png" height="700" align="middle" />
 
 > This will bring you to a page containing the names we're going to align for this tutorial. We're going to copy these names, create a new file, and paste these names for our resolution. 
 > this is done by:
