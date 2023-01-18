@@ -35,7 +35,7 @@ keypoints:
 > That about wraps up the basics you'll need to use this tool. We hope that you found this tutorial helpful and that you can use this tool to ease your workflow in keeping the collections up to date. If you are interested in more details of how names are aligned be sure to visit [Nomer](https://github.com/globalbioticinteractions/nomer) github repo, and if you have any questions/problems with the tool you can raise an issue on the [name-alignment-tool](https://github.com/globalbioticinteractions/name-alignment-template) repo. 
 
 > When writing an issue, its best to be explicit about a the problem you run into or are trying to ask. Vague problems are much harder to solve after all! Here's an example of an issue: 
-> <img src="../fig/issue-ex.png" height="1200"  width = 1500 align="middle" />
+> <img src="../fig/issue-ex.png" height="900"  width = "1500" align="middle" />
 Things to note:
 1. Write a brief but concise description of the problem you are running into
 2. (Not included in this example, but better practice) A brief description on what you think should be intended. This is also a great kickstarter that can lead into some really interesting discussions!
