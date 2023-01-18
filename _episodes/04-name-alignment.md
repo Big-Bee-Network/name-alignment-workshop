@@ -58,11 +58,11 @@ You should now see the file in the Repo called names.csv! This means the file is
 <img src="../fig/edit-readme.png" height="900" align="middle" />
 
 > This will bring you to a new page where we can edit the readme. Some things to take note of are:
-1. The subsection called datasets: Here the tool will search the repository's local directory for the name of the file we put here. names.csv is already placed so no edits will be needed here. 
+1. The subsection called datasets: Here the tool will search the repository's directory for the name of the file we put here. names.csv is already placed so no edits will be needed here. 
 2. The subsection called taxonomies: Here, you can edit which catalogues are used for matching by either adding or removing the '#'. For example, if I didn't want to use the catalogue itis I could add '#' in front of the id and name field for that catalogue. For the purposes of this worked example we already have the three catalogues, itis, ncbi, and discoverlife active and ready to match. 
 <img src="../fig/editing-readme.png" height="900" align="middle" />
 
-> You can now run name alignment. Note that you technically cant commit if there are no changes to the readme, so just add a '#' to the end of the document since we know that won't do anything. Write a commit message like "Run name-alignment" and Commit changes.
+> You can now run name alignment. Note that you technically cannot commit if there are no changes to the readme, so just add a '#' to the end of the document since we know that won't do anything. Write a commit message like "Run name-alignment" and Commit changes.
 
 > Alignment will be processing in the background of the github, however we can also see the progress happening in real time by looking at our most recent commit history. To do this we can select the button called 'Name Alignment by Nomer' 
  <img src="../fig/access-button.png" height="900" align="middle" />
