@@ -28,9 +28,9 @@ keypoints:
 <img src="../fig/names-structure.png" height="900" align="middle" />
 
 > Note that scientificName must be present, but it can be in any column of the dataset. The tool will select only the column labelled scientificName. 
-<img src="../fig/more-columns.png" height="700" align="middle" />
+<img src="../fig/more-columns.png" height="900" align="middle" />
 > This example names.csv file contains names we could match, but lets try uploading a different list of names containing bees. We can get rid of the old name file by either deleting it, to do this click on the trashcan icon in the right corner of the file. 
-<img src="../fig/delete-names.png" height="700" align="middle" />
+<img src="../fig/delete-names.png" height="900" align="middle" />
 
 ## Example names
 
