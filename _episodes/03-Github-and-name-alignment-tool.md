@@ -37,8 +37,8 @@ keypoints:
 
 <img src="../fig/my-repos.png" height="600" align="middle" />
 
-> This page contains what are called Repositories on github or for short "Repos". A repository is a location on github that hosts a collection of files associated with your work. Its analagous to a folder that holds all of the files for a associated project. The page we are currently on shows your repositories. If your new to github you currently won't have any repositories listed on this landing page. 
-> Rather than building a repository completely from scratch, we're going to create a copy of one already built. To do this we can navigate to the repo that is the template for the name-alignment-tool.  
+> This page contains what are called Repositories on GitHub or for short "Repos". A repository is a location on GitHub that hosts a collection of files associated with your work. It is like a folder holding all the files for an associated project. The page we are currently on shows your repositories. If you are new to GitHub, you currently will not have any repositories listed on this landing page.  
+> Rather than building a repository completely from scratch, we are going to create a copy of one already built. To do this we can navigate to the repo that is the template for the name-alignment-tool.  
 <img src="../fig/go-to-name-template.png" height="600" align="middle" />
 > Navigate over to the search bar in the top left corner. Enter in the following: `globalbioticinteractions/name-alignment-template`
 > Click on the option that says "jump to". 
@@ -52,14 +52,14 @@ keypoints:
 ### Navitgating my New Repo
 ---------------------------------
 > Now lets cover some basics for guiding ourselves around the repository. There is a _lot_ of information on this webpage, but for our purposes we are going only highlight what is necessary to operate the tool. 
-> First, you can notice the directory of where your repository is stored by looking in the top left corner. It should be structured as username/name-of-repository. Take a look at this and make sure it is structured like this to confirm you made a copy of the template! 
+> First, you see the directory of where your repository is stored by looking in the top left corner. It should be structured as username/name-of-repository. Take a look at this and make sure it is structured like this to confirm you made a copy of the template! 
 <img src="../fig/repo-dir.png" height="600" align="middle" />
 
 
-> Recall that a repository is basically a directory containing files. The files can be visually seen on your repo's main Code page in the center box. This file box contains other info such as sub-folders/directories in the repositiory as well as time stamps for when they were last modified. 
+> Recall that a repository is basically a folder containing files. The files can be visually seen on your repo's main Code page in the center box. This file box contains other info such as sub-folders/directories in the repositiory as well as time stamps for when they were last modified. 
 <img src="../fig/repo-files.png" height="600" align="middle" />
 
-> If you scroll down you should see a section with a subheader called README.md. Readmes are typically designed as front pages for repositories to display helpful information about how to use the repository. Typically readmes are designed to just convey information, however today we'll be exploring a unique application of editing the readme in order to use the name-alignment-tool, but more on that later!
+> If you scroll down you should see a section with a subheader called README.md. Readmes are typically designed as front pages for repositories to display helpful information about how to use the repository. Typically readmes are designed to just convey information, however today we'll be exploring a unique application of editing the readme in order to use the name-alignment-tool, but more on that later! For the purposes of this example tool, we can also think of the README as the description of what our Name-alignment-tool does. 
 <img src="../fig/repo-readme.png" height="600" align="middle" />
 
 > Continue on to the next lesson for a showcase of resolving names using your new tool! 
