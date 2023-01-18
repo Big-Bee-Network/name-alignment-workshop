@@ -25,7 +25,7 @@ keypoints:
 > This is an example of how the names should be formatted when inputted into the tools. The two main things to notice that are a requirement for your names to align correctly are:
   1. the "scientificName" field **must** be present in the first row.
   2. from the second row on, each name will occupy its own row
-<img src="../fig/names-structure.png" height="700" align="middle" />
+<img src="../fig/names-structure.png" height="900" align="middle" />
 
 > Note that scientificName must be present, but it can be in any column of the dataset. The tool will select only the column labelled scientificName. 
 <img src="../fig/more-columns.png" height="700" align="middle" />
