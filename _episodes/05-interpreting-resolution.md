@@ -46,9 +46,12 @@ Things to note:
 ### In case we have extra time! 
 > Now that we've learned the basics of the tool, lets go ahead and try some names! 
 > Feel free to post any scientificName in the chat, and lets see how name alignment handles it! 
-> Complicated ones (Hononyms or ones known to have unstable taxonomy are encouraged!)
-> A [name list](../complex-names.csv) of bees that can remap to unexpected names 
-
- 
-> 
+> Complicated ones (ones known to have unstable taxonomy are encouraged!)
+> Here are some example ones
+scientificName 
+Acanthalictus dybowskii
+Adanthidium discophorum
+Agapostemon azarae
+Dufourea versatilis rubriventris
+Eoanthidium (Eoanthidiellum) elongatum
 
