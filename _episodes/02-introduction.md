@@ -49,7 +49,7 @@ keypoints:
 - **Accepted Name**: This relationship shows that the name searched is registered as the most current/valid name according to the catalogue. 
 - **Synonym**: This relationship suggests that the name searched has been remapped to an alternative name according to the catalogue.
 
-<img src="../fig/name-table.png" height="200" align="middle"  />
+<img src="../fig/name-table.png" width = "50%" align="middle"  />
 
 
 
