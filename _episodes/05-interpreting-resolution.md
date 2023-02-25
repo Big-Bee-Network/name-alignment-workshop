@@ -17,7 +17,7 @@ keypoints:
 ## Interpreting the output
 ---
 > So we now have our output table, but what does all of it mean? 
-<img src="../fig/name-resolution-fields2.png" height="1200" width = "1500" align="middle" /> >
+<img src="../fig/name-resolution-fields2.png" width="100%" align="middle" /> >
 There is quite a bit here so lets break down the fields that are of particular interest:
 1. The field providedName represents the scientificName field we provided in our input to the tool.
 2. The field parsedName represents the scientificName after undergoing parsing, parsing is a process where extranoeous information is truncated out of the name if a matching scheme supports it (e.g. Authorship/Authority). Please note that subgenuses are parsed out *change?* 
@@ -35,7 +35,7 @@ There is quite a bit here so lets break down the fields that are of particular i
 > That about wraps up the basics you'll need to use this tool. We hope that you found this tutorial helpful and that you can use this tool to ease your workflow in keeping the collections up to date. If you are interested in more details of how names are aligned be sure to visit [Nomer](https://github.com/globalbioticinteractions/nomer) github repo, and if you have any questions/problems with the tool you can raise an issue on the [name-alignment-tool](https://github.com/globalbioticinteractions/name-alignment-template) repo. 
 
 > When writing an issue, its best to be explicit about a the problem you run into or are trying to ask. Vague problems are much harder to solve after all! Here's an example of an issue: 
-> <img src="../fig/issue-ex.png" height="900"  width = "1500" align="middle" />
+> <img src="../fig/issue-ex.png" width="100%" align="middle" />
 Things to note:
 1. Write a brief but concise description of the problem you are running into
 2. (Not included in this example, but better practice) A brief description on what you think should be intended. This is also a great kickstarter that can lead into some really interesting discussions!
