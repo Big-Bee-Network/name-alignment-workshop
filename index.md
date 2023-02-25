@@ -343,9 +343,10 @@ of code below the Schedule `<h2>` header below with
 
 ## Recording
 
-You can find a mp4 recording of the 2023-01-16 event via:
+You can find a mp4 recording of the 2023-01-18 event via:
 
-<iframe src="https://vimeo.com/790959610" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/790959610?h=7708edc498" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/790959610">Jan192023-taxon-name-alignment.mp4</a> from <a href="https://vimeo.com/user5450790">Irene Moon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 {% comment %}
 SETUP
