@@ -35,7 +35,7 @@ keypoints:
 ---------------------------------
 > Right now you should see the following page after navigating to your repositories: 
 
-<img src="../fig/my-repos.png" height="700" align="middle" />
+<img src="../fig/my-repos.png" width="50%" align="middle" />
 
 > This page contains what are called Repositories on GitHub or for short "Repos". A repository is a location on GitHub that hosts a collection of files associated with your work. It is like a folder holding all the files for an associated project. The page we are currently on shows your repositories. If you are new to GitHub, you currently will not have any repositories listed on this landing page.  
 > Rather than building a repository completely from scratch, we are going to create a copy of one already built. To do this we can navigate to the repo that is the template for the name-alignment-tool.  
