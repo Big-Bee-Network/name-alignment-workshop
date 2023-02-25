@@ -99,13 +99,13 @@ Our overall goal of this workshop is provide a tutorial on the usage of the name
 
 
 ## Acknowledgements
-A special thanks to the following organizations and projects that made this work and tutorial possible: <b />
-NSF for their support and funding of Big-Bee, Extending Anthophila research through image and trait digitilization. (NSF:DBI:2102006) <b />
-Global Biotic Interactions (GLOBI) <b />
-iDigBio <b />
+A special thanks to the following organizations and projects that made this work and tutorial possible:
+[NSF]("https://nsf.gov") for their support and funding of [Big-Bee]("https://www.idigbio.org/wiki/index.php?title=TCN:_Extending_Anthophila_research_through_image_and_trait_digitization_(Big-Bee)&mobileaction=toggle_view_desktop"), Extending Anthophila research through image and trait digitilization. (NSF:DBI:2102006), 
+Global Biotic Interactions [GLOBI]("https://globalbioticinteractions.org") for integration of Nomer for name alignment, and 
+[iDigBio](https://www.idigbio.org) for TCN support. 
 
 <a href="https://www.idigbio.org/wiki/index.php?title=TCN:_Extending_Anthophila_research_through_image_and_trait_digitization_(Big-Bee)&mobileaction=toggle_view_desktop"><img src="fig/big-bee-reg.png" class="inline-image" style="height: 6em;"></a>
-<a href="https://nsf.gov"><img src="fig/NSF_Official_logo_High_Res_1200ppi.png" class="inline-image" style="height: 6em;"></a> <a href="https://www.idigbio.org/"><img src="fig/IDigBio_Logo_RGB.png" class="inline-image" style="height: 4em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_512x512.png" class="inline-image" style="height: 5em;"></a>
+<a href="https://nsf.gov"><img src="fig/NSF_Official_logo_High_Res_1200ppi.png" class="inline-image" style="height: 6em;"></a> <a href="https://www.idigbio.org/"><img src="fig/IDigBio_Logo_RGB.png" class="inline-image" style="height: 4em;"></a> <a href="https://globalbioticinteractions.org"><img src="fig/globi_long.png" class="inline-image" style="height: 5em;"></a>
 
 ## Disclaimer
 
