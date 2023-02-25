@@ -341,7 +341,11 @@ of code below the Schedule `<h2>` header below with
 
 <hr/>
 
+## Recording
 
+You can find a mp4 recording of the 2023-01-16 event via:
+
+<iframe src="https://vimeo.com/790959610" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 {% comment %}
 SETUP
