@@ -26,7 +26,7 @@ keypoints:
 > Simply put github is a hosting service for software development and collaboration. Some of us use it to store versions of our code/analyses and others use it for development of software/applications. Today our aim isn't to utilize github for these aspects, but to interact with the name-alignment-tool that has been built on github. All you need to interact with the tool is to make a copy of the template repository. That probably sounds complicated at first so lets break it down into a few steps.
 
 > Once you have made you're account, you will likely be taken to a page showing you're home activity/github's recommendations. From there, we can nagivate to the top right corner that displays your profile icon, click it, then navigate to the tab that says "Your repositories", go ahead and click that as well.
-<img src="../fig/go-to-repo.png" height="700" align="middle" />
+<img src="../fig/go-to-repo.png" width="75%" align="middle" />
 
 
  
