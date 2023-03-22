@@ -16,9 +16,8 @@ keypoints:
 
 ## Interpreting the output
 ---
-> Before showing the downloaded output: Let's think a bit about what is happening under the hood of name alignment. Below is a diagram denoting the steps taken to align our names by the tool. 
-<img src="../fig/name-alignment-matching-UML.png" width="100%" align="middle" /> >
-> Here, the tool takes in the name list, processes and aligns each name against the catalogues of choice. The tool then formats and returns a table of our initial names and their aligned relations. 
+> Before showing the downloaded output: Let's think a bit about what is happening under the hood of name alignment. Below is a diagram denoting the steps taken to align our names by the tool. Here, the tool takes in the name list, processes and aligns each name against the catalogues of choice. The tool then formats and returns a table of our initial names and their aligned relations.
+<img src="../fig/name-alignment-matching-UML.png" width="75%" align="middle" /> >
 <img src="../fig/name-resolution-fields2.png" width="100%" align="middle" /> >
 There is quite a bit here so lets break down the fields that are of particular interest:
 1. The field providedName represents the scientificName field we provided in our input to the tool.
