@@ -20,7 +20,7 @@ keypoints:
 <img src="../fig/name-alignment-matching-UML.png" width="50%" align="middle" /> 
 Below is a sample table output of name alignment with some highlighted fields. Please note that the name-alignment tool is constantly recieving updates based upon feedback, so there likely will be more fields in your own outputs.  
 <img src="../fig/name-resolution-fields2.png" width="100%" align="middle" /> 
-There is quite a bit here so lets break down the fields that are of particular interest:
+> There is quite a bit here so lets break down the fields that are of particular interest:
 1. The field providedName represents the scientificName field we provided in our input to the tool.
 2. The field parsedName represents the scientificName after undergoing parsing, parsing is a process where extranoeous information is truncated out of the name if a matching scheme supports it (e.g. Authorship/Authority). Please note that subgenuses are parsed out *change?* 
 3. The field alignRelation can have three possible values: 
