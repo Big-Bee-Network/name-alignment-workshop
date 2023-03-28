@@ -31,7 +31,7 @@ There is quite a bit here so lets break down the fields that are of particular i
 5. the field alignedName is the name relation matched to the parsedName. 
 6. the field alignedRank is the taxonomic level of the alignedName (i.e. Genus, species, etc)
 7. the field alignedPath shows a 'piped' list of the alignedNames taxonomic designation. (Domain | Kingdom | Phylum | Class | Order | Family | Genus | Species)
-
+---
 
 ## Conclusion & Further Discussion
 > That about wraps up the basics you'll need to use this tool. We hope that you found this tutorial helpful and that you can use this tool to ease your workflow in keeping the collections up to date. If you are interested in more details of how names are aligned be sure to visit [Nomer](https://github.com/globalbioticinteractions/nomer) github repo, and if you have any questions/problems with the tool you can raise an issue on the [name-alignment-tool](https://github.com/globalbioticinteractions/name-alignment-template) repo. 
