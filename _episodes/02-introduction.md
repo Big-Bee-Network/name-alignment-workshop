@@ -60,7 +60,7 @@ keypoints:
 -----
 > Rather than going by hand and correcting your collection's names manually, there are tools available to align lists of hundreds to thousands of names to catalogue's standards. The tool we'll be showcasing today takes advantage github's interface, allowing a graphical type enviroment that many of us are used to.
 > Below is a UML diagram providing an overview of how this tool works. We will begin addressing each of these steps one by one, but first a light introduction to Github. 
-<img src="../fig/name-alignment-tool-UML.png" width = "50%" align="middle"  />
+<img src="../fig/alignment-workflow.svg" width = "50%" align="middle"  />
 
 > ## `More Info: How Does this tool Work?`
 > If you are interested in how the tool actually aligns these names you can visit the repository for [Nomer](https://github.com/globalbioticinteractions/nomer). Nomer is the tool used for aligning names within GloBI. 
