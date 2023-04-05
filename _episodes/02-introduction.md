@@ -59,7 +59,7 @@ keypoints:
 ### The Name-Alignment-Tool
 -----
 > Rather than going by hand and correcting your collection's names manually, there are tools available to align lists of hundreds to thousands of names to catalogue's standards. The tool we'll be showcasing today takes advantage github's interface, allowing a graphical type enviroment that many of us are used to.
-> Below is a UML diagram providing an overview of how this tool works. We will begin addressing each of these steps one by one, but first a light introduction to Github. 
+> Below is a diagram providing an overview of how this tool works. We will begin addressing each of these steps one by one, but first a light introduction to Github. 
 <img src="../fig/alignment-workflow.svg" width = "50%" align="middle"  />
 
 > ## `More Info: How Does this tool Work?`
