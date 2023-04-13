@@ -30,7 +30,7 @@ keypoints:
 4. the field alignedExternalId indicates the catalogue the name was matched to. These are often abbrievated containing the ID or url within the catalogue to reference that name alignment. 
 5. the field alignedName is the name relation matched to the parsedName. 
 6. the field alignedRank is the taxonomic level of the alignedName (i.e. Genus, species, etc).
-7. the field alignedPath shows a 'piped' list of the alignedNames taxonomic designation. Domain | Kingdom | Phylum | Class | Order | Family | Genus | Species.
+7. the field alignedPath shows a 'piped' list of the alignedNames taxonomic designation.
 
 ---
 
