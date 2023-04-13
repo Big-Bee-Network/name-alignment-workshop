@@ -17,7 +17,7 @@ keypoints:
 ## Interpreting the output
 ---
 > Before showing the downloaded output: Let's think a bit about what is happening under the hood of name alignment. Below is a diagram denoting the steps taken to align our names by the tool. Here, the tool takes in the name list, processes and aligns each name against the catalogues of choice. The tool then formats and returns a table of our initial names and their aligned relations. 
-<img src="../fig/name-alignment-matching-UML.png" width="50%" align="middle" /> 
+<img src="../fig/alignment-workflow.svg" width = "50%" align="middle"  />
 > Below is a sample table output of name alignment with some highlighted fields. Please note that the name-alignment tool is constantly recieving updates based upon feedback, so there likely will be more fields in your own outputs.
 <img src="../fig/name-resolution-fields2.png" width="100%" align="middle" /> 
 > There is quite a bit here so lets break down the fields that are of particular interest:
